@@ -1,4 +1,4 @@
-const mongoDBConnectionString = "mongodb://<xwang345>:<Xc2018Seneca!>@ds137740.mlab.com:37740/teams-api-db_xwang345";
+const mongoDBConnectionString = "mongodb://xwang345:Xc2018Seneca!@ds137740.mlab.com:37740/teams-api-db_xwang345";
 const HTTP_PORT = process.env.PORT || 8081;
 
 const express = require("express");
